@@ -22,16 +22,16 @@ Développé par Toko_Clb Lab, ce projet met en œuvre un système complet de con
 | RFID MISO	  | GPIO 19    |
 | RFID GND	  | GND        |
 | RFID 3.3V   | 3.3V       |
-
+|-------------|------------|
 | OLED SDA    | GPIO 21    |
 | OLED SCL    | GPIO 22    |
 | OLED GND	  | GND        |
 | OLED 5V     | 5V         |
-
+|-------------|------------|
 | LED RGB R   | GPIO 2     |
 | LED RGB G   | GPIO 15    |
 | LED RGB GND | GND        |
-
+|-------------|------------|
 | Buzzer      | GPIO 13    |
 | Buzzer GND  | GND        |
 
