@@ -8,6 +8,7 @@ Développé par Toko_Clb Lab, ce projet met en œuvre un système complet de con
 - Lecteur RFID MFRC522
 - Écran OLED SSD1306
 - LED RGB
+- Résistance 220Ω
 - Buzzer
 - Câblage et alimentation
 
